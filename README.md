@@ -14,6 +14,6 @@ Gesture-Recognition-Toolkit is a versatile library for recognizing hand gestures
 To get started with Gesture-Recognition-Toolkit, clone the repository and install the required dependencies listed in `requirements.txt`.
 
 ```bash
-git clone https://github.com/yourgithubusername/Gesture-Recognition-Toolkit.git
+git clone https://github.com/Pangao11/Gesture-Recognition-Toolkit.git
 cd Gesture-Recognition-Toolkit
 pip install -r requirements.txt
